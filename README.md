@@ -3,6 +3,9 @@
 
 Simple discord bot that catches messages and then outputs them into a desired telegram channel
 
+# Installation
+``$ npm install``
+
 # config.json
 ```json
 {
